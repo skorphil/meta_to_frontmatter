@@ -19,8 +19,11 @@ Some content here
 ## blah blah blah
 ```
 
+# Known issues
+Works only on mac os. To make it work on linux and windows need to use another method to get file's creation date. See references (1)
+
 # References
-https://stackoverflow.com/questions/237079/how-to-get-file-creation-modification-date-times
-https://stackoverflow.com/questions/5914627/prepend-line-to-beginning-of-a-file
-https://careerkarma.com/blog/python-list-files-in-directory/
-https://stackoverflow.com/questions/55406067/filtering-os-walk-files-on-extension-and-size
+1. https://stackoverflow.com/questions/237079/how-to-get-file-creation-modification-date-times
+2. https://stackoverflow.com/questions/5914627/prepend-line-to-beginning-of-a-file
+3. https://careerkarma.com/blog/python-list-files-in-directory/
+4. https://stackoverflow.com/questions/55406067/filtering-os-walk-files-on-extension-and-size
