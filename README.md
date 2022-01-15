@@ -27,3 +27,8 @@ Works only on mac os. To make it work on linux and windows need to use another m
 2. https://stackoverflow.com/questions/5914627/prepend-line-to-beginning-of-a-file
 3. https://careerkarma.com/blog/python-list-files-in-directory/
 4. https://stackoverflow.com/questions/55406067/filtering-os-walk-files-on-extension-and-size
+
+# Learn
+- Work with nested lists - prepare database with common functions
+- Work with files in OS - nice to learn for automation
+- Manipulating text (problem with inability to add text at the beginning) - how to append, replace, rewrite etc
