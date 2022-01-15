@@ -49,11 +49,11 @@ def Write_frontmatter_to_file(path, frontmatter):
 
 
 def Get_creation_time(path):
-    return dt.datetime.fromtimestamp(os.stat(path).st_birthtime).strftime("%Y-%m-%dT%H:%M:%S+03:00")
+    return dt.datetime.fromtimestamp(os.stat(path).st_birthtime).strftime("%Y-%m-%d %H:%M")
 
 
 def Get_modified_time(path):
-    return dt.datetime.fromtimestamp(os.path.getmtime(path)).strftime("%Y-%m-%dT%H:%M:%S+03:00")
+    return dt.datetime.fromtimestamp(os.path.getmtime(path)).strftime("%Y-%m-%d %H:%M")
 
 
 Main("/Volumes/GoogleDrive/My Drive/NCT")
