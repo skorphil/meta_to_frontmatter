@@ -1,5 +1,6 @@
 # About
 A small script that create frontmatter in .md files in given directory based on their creation and last modified dates.
+> Backup your files before using script!
 
 ### Before
 example.md
