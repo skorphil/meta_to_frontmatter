@@ -56,7 +56,7 @@ def Get_modified_time(path):
     return dt.datetime.fromtimestamp(os.path.getmtime(path)).strftime("%Y-%m-%d %H:%M")
 
 
-Main("/Volumes/GoogleDrive/My Drive/NCT/NCT_obsidian")
+Main("/Users/philipp/Library/Mobile Documents/iCloud~md~obsidian/Documents/Obsidian_vault")
 
 
 # --- References ---
